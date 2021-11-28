@@ -80,7 +80,7 @@ def validate_data(age, investment_amount, risk_level, intent_request):
                 False,
                 "riskLevel",
                 "Risk level input option is not valid, "
-                " please provide an option form the list provided.",
+                " please provide an option from the list provided.",
             )
         
     # A True results is returned if age, amount and risk level are valid
