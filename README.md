@@ -13,7 +13,7 @@ This challenge is divided into three sections:
     * Build and test the robo advisor.  A screen recording is provided in the 'screen_recordings' folder that demonstrates this.
 
 * Step 3: Enhance the Robo Advisor with an Amazon Lambda Function
-    * Create an Amazon Lambda function to validate the data that a user supplies during a conversation with the robo advisor.  The Lambda function (lambda_function.py) is located in the 'Lambda' funciton located in this repository. 
+    * Create an Amazon Lambda function to validate the data that a user supplies during a conversation with the robo advisor.  The Lambda function (lambda_function.py) is located in the 'Lambda' folder located in this repository. 
     * A screen recording is provided in the 'screen_recordings' folder that demonstrates this.
 ---
 ## Technologies
